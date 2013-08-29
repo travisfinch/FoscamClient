@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Foscam Client</string>
+    <string name="take_snapshot">Take Snapshot</string>
+    <string name="restart">Restart</string>
+    <string name="quit">Quit</string>
+    <string name="foscam_hostname">192.168.1.100</string>
+    <string name="foscam_port">8080</string>
+    <string name="foscam_user">admin</string>
+    <string name="foscam_password">admin</string>
+
+</resources>

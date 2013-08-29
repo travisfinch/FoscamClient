@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/snapshot"
+        android:showAsAction="ifRoom"
+        android:title="@string/take_snapshot"/>
+    <item
+        android:id="@+id/restart"
+        android:showAsAction="never"
+        android:title="@string/restart"/>
+    <item
+        android:id="@+id/quit"
+        android:showAsAction="never"
+        android:title="@string/quit"/>
+
+</menu>
