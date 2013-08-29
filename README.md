@@ -3,7 +3,7 @@ FoscamClient
 
 I wrote this as a quick way to check up on my sleeping kid from my Nexus 7.
 
-I am using a Foscam FI8918W, but it should work with other models as well.
+I am using a Foscam FI8918W, but it should work with other models that support MJPEG as well. There is no support for H.264 as I have not bought a newer model (yet).
 
 For now, you must input your camera information as string resources in res/values/strings.xml.
 
