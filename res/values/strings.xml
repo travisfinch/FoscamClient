@@ -9,5 +9,6 @@
     <string name="foscam_port">8080</string>
     <string name="foscam_user">admin</string>
     <string name="foscam_password">admin</string>
+    <string name="test">test</string>
 
 </resources>
